@@ -8,7 +8,7 @@
     "autoprefixer": "^10.7.0",
     "gulp": "^5.0.1",
     "gulp-autoprefixer": "^10.0.0",
-    "gulp-postcss": "^6.1.1",
+    "gulp-postcss": "^10.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-requirejs-optimize": "^0.3.2",
     "gulp-sass": "^6.0.1",
